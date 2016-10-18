@@ -1,0 +1,10 @@
+0xC22318C9 = money (4 byte)
+0xC2259272 = time (seconds) (1 byte)
+0xC4C484AF = wanted level (1 byte)
+0xC57A8263 = also wanted level? (1 byte)
+0xC5575440 = health (2 byte) (full health = 17144)
+0xC55754E3 = pistol ammo clip
+0xC55754E7 = pistol total ammo
+0xC5575503 = shotgun ammo clip
+0xC557551F = uzi total ammo
+0xC557551B = uzi ammo clip
